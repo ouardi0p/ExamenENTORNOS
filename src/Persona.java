@@ -1,3 +1,4 @@
+/* 
 import java.util.Scanner;
 import java.util.regex.Pattern;
 import java.util.regex.Matcher;
@@ -22,7 +23,7 @@ class Persona {
             return false;
         }
     }
-
+    
     public boolean setCorreo(String correo) {
         String regex = "^[\\w-\\.]+@([\\w-]+\\.)+[\\w-]{2,4}$";
         Pattern pattern = Pattern.compile(regex);
@@ -87,4 +88,5 @@ class Persona {
                "Teléfono: " + telefono + "\n" +
                "Edad: " + edad;
     }
-}
+
+    */

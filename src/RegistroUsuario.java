@@ -1,3 +1,4 @@
+/* 
 import java.util.Scanner;
 
 public class RegistroUsuario {
@@ -38,3 +39,4 @@ public class RegistroUsuario {
         System.out.println(persona);
     }
 }
+ */
